@@ -56,4 +56,4 @@ claimed as a loss and reduce CGT.
 How to contribute
 =================
 
-You can leave a comment or [edit this document on GitHub](https://github.com/sinizinairina/tax-cheatsheet).
+You can **leave a comment or edit** this document [on GitHub](https://github.com/sinizinairina/tax-cheatsheet).
