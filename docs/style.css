@@ -47,7 +47,11 @@ h1 {
   line-height: 1.04;
   letter-spacing: -.028em;
   margin-top: 39px;
-}
+} @media (max-width: 767px) { h1 {
+  font-size: 32px;
+  line-height: 1.04;
+  letter-spacing: -.028em;
+}}
 
 /*h2 {
   margin-top: 30px;
@@ -71,7 +75,11 @@ p {
   font-size: 21px;
   line-height: 1.58;
   letter-spacing: -.003em;
-}
+} @media (max-width: 767px) { p {
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: -.004em;
+}}
 
 strong {
   font-weight: 700;
@@ -102,4 +110,9 @@ blockquote {
   padding: 0;
   padding-left: 50px;
   text-align: left;
-}
+} @media (max-width: 767px) { blockquote {
+  font-size: 22px;
+  margin-left: -1.38px;
+  line-height: 1.4;
+  letter-spacing: -.008em;
+}}
